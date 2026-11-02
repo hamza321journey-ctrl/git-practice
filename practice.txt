@@ -1,1 +1,1 @@
-My second Git project
+I am learning how Git works.
